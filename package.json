@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "matematica": "file:../pacotes"
+    "matematica": "file:../pacotes",
+    "calculadora-node.js": "git+https://github.com/igorfurtado/calculadora-node.js"
   }
 }
